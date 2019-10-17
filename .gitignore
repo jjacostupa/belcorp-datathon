@@ -1,3 +1,6 @@
+# Macosx files
+.DS_Store
+
 # Tensorboard logs
 logs/*
 
