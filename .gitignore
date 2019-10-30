@@ -1,3 +1,6 @@
+# datasets
+datasets/*
+
 # Macosx files
 .DS_Store
 
